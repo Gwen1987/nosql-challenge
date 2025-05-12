@@ -1,0 +1,41 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Conda environment folders
+env/
+.venv/
+venv/
+.conda/
+anaconda3/
+anaconda_projects/
+
+# VS Code settings
+.vscode/
+
+# System/macOS
+.DS_Store
+.MACOSX/
+_MACOS/
+
+# Jupyter temp/virtual files
+.virtual_documents/
+
+# Data, logs, outputs
+*.log
+*.csv
+*.tsv
+*.xlsx
+*.h5
+*.db
+*.sqlite
+
+# Project-specific folders to ignore
+Starter_Code(13)/
+nosql-challenge/.virtual_documents/
+nosql-challenge/_MACOS/
+nosql-challenge/anaconda_projects/
