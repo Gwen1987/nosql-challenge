@@ -13,6 +13,8 @@ venv/
 .conda/
 anaconda3/
 anaconda_projects/
+anaconda_projects_db/
+
 
 # VS Code settings
 .vscode/
@@ -20,10 +22,12 @@ anaconda_projects/
 # System/macOS
 .DS_Store
 .MACOSX/
-_MACOS/
+_MACOSX/
 
 # Jupyter temp/virtual files
 .virtual_documents/
+.virtual_documents/Starter_code/
+
 
 # Data, logs, outputs
 *.log
@@ -37,3 +41,7 @@ _MACOS/
 # Project-specific folders to ignore
 
 Starter_Code/
+Starter_Code(13)/
+nosql-challenge/.virtual_documents/
+nosql-challenge/_MACOS/
+nosql-challenge/anaconda_projects/
