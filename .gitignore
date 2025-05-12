@@ -35,7 +35,5 @@ _MACOS/
 *.sqlite
 
 # Project-specific folders to ignore
-.virtual_documents/Starter_Code/
-_MACOSX/
-anaconda_projects/db/
+
 Starter_Code/
