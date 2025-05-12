@@ -35,7 +35,6 @@ _MACOS/
 *.sqlite
 
 # Project-specific folders to ignore
-Starter_Code(13)/
-nosql-challenge/.virtual_documents/
-nosql-challenge/_MACOS/
-nosql-challenge/anaconda_projects/
+.virtual_documents/
+_MACOS/
+anaconda_projects/
